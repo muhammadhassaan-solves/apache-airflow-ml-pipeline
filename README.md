@@ -18,34 +18,25 @@ This project sets up Apache Airflow to automate and manage an ML pipeline, cover
 
 <p align="center">
 Set Up Airflow <br />
-<img src="https://i.imgur.com/NEWGFUl.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NEWGFUl.jpeg"/>
 <br />
 <br />
 Initialize Airflow DB and create an admin user <br/>
-<img src="https://i.imgur.com/2kDxbCb.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2kDxbCb.jpeg"/>
 <br />
 <br />
 Start Web Server and Scheduler <br/>
-<img src="https://i.imgur.com/BACo9fP.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BACo9fP.jpeg"/>
 <br />
 <br />
 Create ML Workflow DAG <br/>
-<img src="https://i.imgur.com/kM9uQG8.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kM9uQG8.jpeg"/>
 <br />
 <br />
 Run and Monitor the DAG <br/>
-<img src="https://i.imgur.com/IfeXeYw.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IfeXeYw.jpeg"/>
 <br />
 <br />
 
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
